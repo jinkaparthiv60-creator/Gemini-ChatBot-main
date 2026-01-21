@@ -21,7 +21,7 @@ To get started with the project, follow the steps below.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/KalyanMurapaka45/Gemini-ChatBot.git
+   https://github.com/jinkaparthiv60-creator/Gemini-ChatBot-main.git
    cd gemini-pro-chat
    ```
 
@@ -61,10 +61,4 @@ Contributions to the Google Gemini-Pro Chat Application are welcome! If you have
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-## Contact
-
--   Hema Kalyan - [kalyanmurapaka274@gmail.com](mailto:kalyanmurapaka274@gmail.com)
